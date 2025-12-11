@@ -17,10 +17,9 @@
     <div class="branding d-flex align-items-cente">
 
       <div class="container position-relative d-flex align-items-center justify-content-between">
-        <a href="index.html" class="logo d-flex align-items-center">
-          <!-- Uncomment the line below if you also wish to use an image logo -->
-          <!-- <img src="assets/img/logo.webp" alt=""> -->
-          <h2 class="sitename">ORIGINAL FOOD DELIVERY</h2>
+        <a href="index.php" class="logo d-flex align-items-center">
+          <img src="assets/img/logo/logo.jpg" alt="Original Food Delivery Logo">
+          <h1 class="sitename">ORIGINAL FOOD DELIVERY</h1>
         </a>
 
         <nav id="navmenu" class="navmenu">
