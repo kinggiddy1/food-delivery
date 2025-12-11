@@ -14,7 +14,7 @@
       </div>
     </div>
 
-    <div class="branding d-flex align-items-cente">
+    <div class="branding d-flex align-items-center">
 
       <div class="container position-relative d-flex align-items-center justify-content-between">
         <a href="index.php" class="logo d-flex align-items-center">
@@ -26,17 +26,10 @@
           <ul>
             <li><a href="index.html" class="active">Home</a></li>
             <li><a href="about.html">About</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="projects.html">Projects</a></li>
             <li><a href="team.html">Team</a></li>
-            <li class="dropdown"><a href="#"><span>More Pages</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
-                <li><a href="service-details.html">Service Details</a></li>
-                <li><a href="project-details.html">Project Details</a></li>
-                <li><a href="quote.html">Quote Form</a></li>
-                <li><a href="terms.html">Terms</a></li>
-                <li><a href="privacy.html">Privacy</a></li>
-                <li><a href="404.html">404</a></li>
+                <li><a href="service-details.html">Honey</a></li>
               </ul>
             </li>
             <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
