@@ -104,62 +104,53 @@
     </section>
 
 
-    <section id="services" class="hero-content" data-aos="fade-right" data-aos-delay="200">
-      <div class="container about-content">
-        <h2 style="color: #2178bd;">OUR PRODUCTS</h2>
+    
+      <section id="products" class="products section">
+      <div class="container">
+
+
+    <div class="text-center mb-5">
+      <div style="font-size:2rem;font-weight:700;line-height:1.2;">
+        <span style="color:#2178bd;">Our Products</span>
       </div>
+      <p class="mt-2">
+        Discover our range of high-quality, original food products delivered worldwide.
+      </p>
+    </div>
 
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-        <div class="row gy-4">
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-card text-center p-4 h-100">
-              <img 
-                src="assets/img/products/IMG-20.jpg" 
-                alt="Natural Honey Jar 1kg" 
-                class="img-fluid mb-3 rounded"
-              >
-              <h4>Natural Honey – 1kg Jar</h4>
-              <p>
-                Pure, natural honey harvested directly from trusted beekeepers.
-                Rich in nutrients, perfect for daily use, cooking, and natural remedies.
-              </p>
-            </div>
-          </div>
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-card text-center p-4 h-100">
-              <img 
-                src="assets/img/products/IMG-21.jpg" 
-                alt="Natural Honey Jar 500g" 
-                class="img-fluid mb-3 rounded"
-              >
-              <h4>Natural Honey – 500g Jar</h4>
-              <p>
-                Pure, natural honey harvested directly from trusted beekeepers.
-                Rich in nutrients, perfect for daily use, cooking, and natural remedies.
-              </p>
-            </div>
-          </div>
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-card text-center p-4 h-100">
-              <img 
-                src="assets/img/products/IMG-01.png" 
-                alt="Natural Honey Jar 250g" 
-                class="img-fluid mb-3 rounded"
-              >
-              <h4>Natural Honey – 250g Jar</h4>
-              <p>
-                Pure, natural honey harvested directly from trusted beekeepers.
-                Rich in nutrients, perfect for daily use, cooking, and natural remedies.
-              </p>
-            </div>
-          </div>
+    <div class="row g-4">
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+        <div style="background:#ffffff;padding:20px;border-radius:10px;text-align:center;height:100%;">
+          <img src="assets/img/products/IMG-a.jpg" alt="Pure Honey" style="width:100%;border-radius:10px;margin-bottom:15px;">
+          <h5 style="color:#2178bd;font-weight:700;">Pure Honey</h5>
+          <p style="font-weight:600;color:#333;">$15.00</p>
+          <p>100% natural honey harvested from organic farms, perfect for health-conscious customers.</p>
         </div>
       </div>
-    </section>
-  </main>
+
+      
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+        <div style="background:#ffffff;padding:20px;border-radius:10px;text-align:center;height:100%;">
+          <img src="assets/img/products/IMG-b.jpg" alt="Organic Honey" style="width:100%;border-radius:10px;margin-bottom:15px;">
+          <h5 style="color:#2178bd;font-weight:700;">Organic Honey</h5>
+          <p style="font-weight:600;color:#333;">$18.00</p>
+          <p>Rich, organic honey with full flavor and nutrients, sourced directly from local beekeepers.</p>
+        </div>
+      </div>
+
+     
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+        <div style="background:#ffffff;padding:20px;border-radius:10px;text-align:center;height:100%;">
+          <img src="assets/img/products/IMG-c.png" alt="Honey Comb" style="width:100%;border-radius:10px;margin-bottom:15px;">
+          <h5 style="color:#2178bd;font-weight:700;">Honey Comb</h5>
+          <p style="font-weight:600;color:#333;">$22.00</p>
+          <p>Natural honey comb, ideal for enjoying raw honey with its pure texture and flavor.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
 
   
   <?php
