@@ -279,7 +279,7 @@
   </main>
 
   <?php
-    require_once('footer-index.php');
+    require_once('index-footer.php');
   ?>
 
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
