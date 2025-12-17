@@ -28,7 +28,7 @@
             <li><a href="team.php">Team</a></li>
             <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
-                <li><a href="service-details.php">Honey</a></li>
+                <li><a href="products.php">Honey</a></li>
               </ul>
             </li>
             <li><a href="blog.php">Blog</a></li>

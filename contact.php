@@ -56,11 +56,11 @@
         <div class="form-container h-100">
         <div style="font-size:1.75rem;font-weight:700;line-height:1.2;margin-bottom:1rem;">
         <span style="color:#2178bd;">
-            Send Us a Message
+            Get in Touch
         </span>
         </div>
 
-          <p>We’d love to hear from you. Send us a message and we’ll respond shortly.</p>
+          <p>We would love to hear from you! Whether you have questions about our products, need assistance with an order, or want to provide feedback, our team is here to help. Reach out to us through any of the following methods:</p>
           <form action="forms/contact.php" method="post" class="php-email-form">
             
             <div class="form-floating mb-3">
