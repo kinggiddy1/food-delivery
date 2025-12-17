@@ -32,8 +32,68 @@ require_once('perlConfig.php');
   ?>
 
   <main class="main">
-    <section id="hero" class="hero section">
+    
+<!-- Carousel Section -->
+<section id="carousel" class="carousel-section" style="padding: 0; margin: 0;">
+  <div class="container-fluid" style="padding: 0;">
+    <div id="honeyCarousel" class="carousel slide" data-bs-ride="carousel">
+      
+      <!-- Carousel Indicators -->
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#honeyCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#honeyCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#honeyCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
 
+      <!-- Carousel Inner -->
+      <div class="carousel-inner">
+        
+        <!-- Slide 1 -->
+        <div class="carousel-item active" style="position: relative;">
+          <img src="assets/img/products/kkk.png" class="d-block w-100" alt="Pure Honey" style="height: 600px; object-fit: cover;">
+          <div style="position: absolute; top: 50%; left: 10%; transform: translateY(-50%); max-width: 500px; z-index: 10;">
+            <h1 style="color: #2178bd; font-size: 3rem; font-weight: 700; line-height: 1.2; margin-bottom: 20px;">Delivering Pure Original Honey Worldwide</h1>
+            <p style="color: #2178bd; font-size: 1.1rem; margin-bottom: 30px;">Original Food Delivery is dedicated to delivering 100% pure.</p>
+            <a href="#about" class="btn btn-primary" style="background-color: #2178bd; border: none; padding: 12px 30px; font-size: 1rem;">Learn More About Us</a>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item" style="position: relative;">
+          <img src="assets/img/products/kk1.png" class="d-block w-100" alt="Organic Honey" style="height: 600px; object-fit: cover;">
+          <div style="position: absolute; top: 50%; left: 10%; transform: translateY(-50%); max-width: 500px; z-index: 10;">
+            <h1 style="color: #2178bd; font-size: 3rem; font-weight: 700; line-height: 1.2; margin-bottom: 20px;">100% Pure & Natural Honey</h1>
+            <p style="color: #2178bd; font-size: 1.1rem; margin-bottom: 30px;">We guarantee that our honey is free from additives, preservatives, and artificial ingredients. Every jar is tested to ensure the highest quality.</p>
+            <a href="#products" class="btn btn-primary" style="background-color: #2178bd; border: none; padding: 12px 30px; font-size: 1rem;">Shop Now</a>
+          </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item" style="position: relative;">
+          <img src="assets/img/products/kk2.png" class="d-block w-100" alt="Honey Comb" style="height: 600px; object-fit: cover;">
+          <div style="position: absolute; top: 50%; left: 10%; transform: translateY(-50%); max-width: 500px; z-index: 10;">
+            <h1 style="color: #2178bd; font-size: 3rem; font-weight: 700; line-height: 1.2; margin-bottom: 20px;">Worldwide Delivery</h1>
+            <p style="color: #2178bd; font-size: 1.1rem; margin-bottom: 30px;">We deliver our honey to customers around the world, ensuring timely and safe delivery with the freshest products.</p>
+            <a href="#products" class="btn btn-primary" style="background-color: #2178bd; border: none; padding: 12px 30px; font-size: 1rem;">Explore Products</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Carousel Controls -->
+      <button class="carousel-control-prev" type="button" data-bs-target="#honeyCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#honeyCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </div>
+</section>
+
+
+    <!-- <section id="hero" class="hero section">
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <div class="row align-items-center">
           <div class="col-lg-6">
@@ -55,7 +115,7 @@ require_once('perlConfig.php');
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <section id="about" class="about section" style="background-color: #ffffffff;">
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -160,8 +220,7 @@ require_once('perlConfig.php');
   ?>
 
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-  <div id="preloader"></div>
+<?php require_once('loader.php'); ?>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>

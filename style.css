@@ -28,3 +28,19 @@
   background-color: #1b66a0;
   color: #ffffff;
 }
+
+#preloader {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Remove any old preloader animations */
+#preloader::before,
+#preloader::after {
+  display: none !important;
+}
