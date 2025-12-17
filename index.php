@@ -31,7 +31,6 @@
     <section id="hero" class="hero section">
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
-
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="hero-content" data-aos="fade-right" data-aos-delay="200">
@@ -40,8 +39,7 @@
               <p style="color: #2178bd;">Original Food Delivery is dedicated to delivering 100% pure, natural honey to customers around the world. We work closely with trusted local producers to ensure every product meets the highest standards of quality, freshness, and authenticity.</p>
 
               <div class="hero-buttons">
-                <a href="#" class="btn-primary" style="background-color: #2178bd;">Request a Quote</a>
-                <a href="about.html" class="btn-secondary">Learn More About Us</a>
+                <a href="#" class="btn-primary" style="background-color: #2178bd;">Learn More About Us</a>
               </div> 
             </div>
           </div>
