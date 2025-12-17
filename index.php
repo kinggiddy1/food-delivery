@@ -106,14 +106,13 @@
     </section>
     <section id="services" class="services section">
 
-      <!-- Section Title -->
-      <div class="container section-title">
-        <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
 
+      <div class="container about-content">
+        <h2 style="color: #2178bd;">OUR PRODUCTS</h2>
+      </div>
+
+      
       <div class="container" data-aos="fade-up" data-aos-delay="100">
-
         <div class="row gy-4">
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
             <div class="service-card">
