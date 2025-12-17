@@ -50,7 +50,7 @@ require_once('perlConfig.php');
 
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="300">
             <div class="hero-image">
-              <img src="assets/img/products/IMG-01.PNG" alt="product image" class="img-fluid">              
+              <img src="assets/img/products/IMG-01.png" alt="product image" class="img-fluid">              
             </div>
           </div>
         </div>
@@ -93,7 +93,7 @@ require_once('perlConfig.php');
                 </li>
               </ul>
               <div class="cta-container mt-5" data-aos="fade-up" data-aos-delay="800">
-                <a href="about.html" class="btn btn-primary">Learn More About Us</a>
+                <a href="<?php echo URLROOT;?>about" class="btn btn-primary">Learn More About Us</a>
               </div>
             </div>
           </div>
@@ -111,8 +111,6 @@ require_once('perlConfig.php');
     
       <section id="products" class="products section">
       <div class="container">
-
-
     <div class="text-center mb-5">
       <div style="font-size:2rem;font-weight:700;line-height:1.2;">
         <span style="color:#2178bd;">Our Products</span>
