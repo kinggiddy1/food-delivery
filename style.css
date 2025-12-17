@@ -5,3 +5,26 @@
 .sitename {
   color: #1E7BBD;
 }
+
+/* Contact heading */
+.contact .form-container h3 {
+  color: #2178bd;
+  font-weight: 700;
+}
+
+/* Contact submit button */
+.contact .btn-submit {
+  background-color: #2178bd;
+  color: #ffffff;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+/* Hover effect */
+.contact .btn-submit:hover {
+  background-color: #1b66a0;
+  color: #ffffff;
+}

@@ -24,15 +24,15 @@
         <nav id="navmenu" class="navmenu">
           <ul>
             <li><a href="index.php" class="active">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="team.html">Team</a></li>
+            <li><a href="about.php">About</a></li>
+            <li><a href="team.php">Team</a></li>
             <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
-                <li><a href="service-details.html">Honey</a></li>
+                <li><a href="service-details.php">Honey</a></li>
               </ul>
             </li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="blog.php">Blog</a></li>
+            <li><a href="contact.php">Contact</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
