@@ -115,27 +115,55 @@
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <div class="row gy-4">
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-card">
-              
+            <div class="service-card text-center p-4 h-100">
+              <img 
+                src="assets/img/products/IMG-20.jpg" 
+                alt="Natural Honey Jar 1kg" 
+                class="img-fluid mb-3 rounded"
+              >
+              <h4>Natural Honey – 1kg Jar</h4>
+              <p>
+                Pure, natural honey harvested directly from trusted beekeepers.
+                Rich in nutrients, perfect for daily use, cooking, and natural remedies.
+              </p>
             </div>
           </div>
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-card">
-              
+            <div class="service-card text-center p-4 h-100">
+              <img 
+                src="assets/img/products/IMG-21.jpg" 
+                alt="Natural Honey Jar 500g" 
+                class="img-fluid mb-3 rounded"
+              >
+              <h4>Natural Honey – 500g Jar</h4>
+              <p>
+                Pure, natural honey harvested directly from trusted beekeepers.
+                Rich in nutrients, perfect for daily use, cooking, and natural remedies.
+              </p>
             </div>
           </div>
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-card">
-              
+            <div class="service-card text-center p-4 h-100">
+              <img 
+                src="assets/img/products/IMG-01.png" 
+                alt="Natural Honey Jar 250g" 
+                class="img-fluid mb-3 rounded"
+              >
+              <h4>Natural Honey – 250g Jar</h4>
+              <p>
+                Pure, natural honey harvested directly from trusted beekeepers.
+                Rich in nutrients, perfect for daily use, cooking, and natural remedies.
+              </p>
             </div>
-          </div>        
+          </div>
         </div>
       </div>
-    </section>    
+    </section>
   </main>
 
+  
   <?php
     require_once('index-footer.php');
   ?>
