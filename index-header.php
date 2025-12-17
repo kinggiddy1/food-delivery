@@ -1,5 +1,5 @@
  <header id="header" class="header sticky-top">
-    <div class="topbar d-flex align-items-center" style="background-color: #1E7BBD;">
+    <div class="topbar d-flex align-items-center" style="background-color: #2178bd;">
       <div class="container d-flex justify-content-center justify-content-md-between">
         <div class="contact-info d-flex align-items-center">
           <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:info@originalfooddelivery.com">info@originalfooddelivery.com</a></i>
@@ -23,7 +23,7 @@
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="index.php" class="active">Home</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="team.html">Team</a></li>
             <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>

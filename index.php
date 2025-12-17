@@ -36,87 +36,60 @@
           <div class="col-lg-6">
             <div class="hero-content" data-aos="fade-right" data-aos-delay="200">
               <span class=""></span>
-              <h1>Delivering Pure Original Honey Worldwide</h1>
-              <p>Original Food Delivery is dedicated to delivering 100% pure, natural honey to customers around the world. We work closely with trusted local producers to ensure every product meets the highest standards of quality, freshness, and authenticity.</p>
+              <h1 style="color: #2178bd;">Delivering Pure Original Honey Worldwide</h1>
+              <p style="color: #2178bd;">Original Food Delivery is dedicated to delivering 100% pure, natural honey to customers around the world. We work closely with trusted local producers to ensure every product meets the highest standards of quality, freshness, and authenticity.</p>
 
               <div class="hero-buttons">
-                <a href="#" class="btn-primary">Request a Quote</a>
-                <a href="#" class="btn-secondary">Our Projects</a>
-              </div>
-
-              
+                <a href="#" class="btn-primary" style="background-color: #2178bd;">Request a Quote</a>
+                <a href="about.html" class="btn-secondary">Learn More About Us</a>
+              </div> 
             </div>
           </div>
 
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="300">
             <div class="hero-image">
-              <img src="assets/img/products/img1.jpg" alt="product image" class="img-fluid">
-              <div class="image-badge">
-                <span>ISO 22000:2018</span>
-                <p>We are ISO 22000:2018 Certified company</p>
-              </div>
+              <img src="assets/img/products/IMG-01.PNG" alt="product image" class="img-fluid">              
             </div>
           </div>
         </div>
-
       </div>
+    </section>
 
-    </section><!-- /Hero Section -->
-
-    <!-- About Section -->
     <section id="about" class="about section">
-
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="row align-items-center g-5">
           <div class="col-lg-6">
             <div class="about-content" data-aos="fade-right" data-aos-delay="200">
-              <h2>Building Excellence Since 1995</h2>
-              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin gravida tortor in magna feugiat, quis faucibus libero commodo. Maecenas semper lacus vel leo ultrices, vel tempus lectus varius.</p>
-              <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla facilisi. Duis cursus nisi eu orci laoreet, vel molestie enim ullamcorper. Phasellus at convallis neque, id vehicula magna.</p>
-
-              <div class="achievement-boxes row g-4 mt-4">
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="300">
-                  <div class="achievement-box">
-                    <h3>25+</h3>
-                    <p>Years Experience</p>
+              <h2 style="color: #2178bd;">WHY ORIGINAL FOOD DELIVERY?</h2>
+              <p class="lead" style="color: #2178bd;">Original Honey Delivery is a trusted company dedicated to delivering pure, natural honey worldwide. We source our honey directly from experienced beekeepers, ensuring every jar meets the highest standards of quality, authenticity, and freshness.</p>
+              <ul class="about-features list-unstyled mt-4" style="color: #2178bd;">
+                <li data-aos="fade-up" data-aos-delay="300">
+                  
+                  <div>
+                    <h5 style="color: #2178bd;"><i class="bi bi-check-circle-fill"></i> 100% Pure &amp; Natural</h5>
+                    <p>We guarantee that our honey is free from additives, preservatives, and artificial ingredients.</p>
                   </div>
-                </div>
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="400">
-                  <div class="achievement-box">
-                    <h3>500+</h3>
-                    <p>Projects Completed</p>
+                </li>
+                <li data-aos="fade-up" data-aos-delay="400">
+                  <div>
+                    <h5 style="color: #2178bd;"><i class="bi bi-check-circle-fill"></i> Worldwide Delivery</h5>
+                    <p>We deliver our honey to customers around the world, ensuring timely and safe delivery.</p>
                   </div>
-                </div>
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="500">
-                  <div class="achievement-box">
-                    <h3>100%</h3>
-                    <p>Client Satisfaction</p>
+                </li>
+                <li data-aos="fade-up" data-aos-delay="500">
+                  <div>
+                    <h5 style="color: #2178bd;"><i class="bi bi-check-circle-fill"></i> Ethically Sourced</h5>
+                    <p>Our honey comes from responsible beekeeping practices.</p>
                   </div>
-                </div>
-                <div class="col-6 col-md-3" data-aos="fade-up" data-aos-delay="600">
-                  <div class="achievement-box">
-                    <h3>48</h3>
-                    <p>Team Members</p>
+                </li>
+                <li data-aos="fade-up" data-aos-delay="500">
+                  <div>
+                    <h5 style="color: #2178bd;"><i class="bi bi-check-circle-fill"></i> Strict Quality Control</h5>
+                    <p>Every batch is tested to guarantee purity and taste.</p>
                   </div>
-                </div>
-              </div>
-
-              <div class="certifications mt-5" data-aos="fade-up" data-aos-delay="700">
-                <h5>Certifications &amp; Partnerships</h5>
-                <div class="row g-3 align-items-center">
-                  <div class="col-4 col-md-3">
-                    <img src="assets/img/construction/badge-4.webp" alt="Certification" class="img-fluid">
-                  </div>
-                  <div class="col-4 col-md-3">
-                    <img src="assets/img/construction/badge-3.webp" alt="Certification" class="img-fluid">
-                  </div>
-                  <div class="col-4 col-md-3">
-                    <img src="assets/img/construction/badge-5.webp" alt="Certification" class="img-fluid">
-                  </div>
-                </div>
-              </div>
-
+                </li>
+              </ul>
               <div class="cta-container mt-5" data-aos="fade-up" data-aos-delay="800">
                 <a href="about.html" class="btn btn-primary">Learn More About Us</a>
               </div>
@@ -125,23 +98,12 @@
 
           <div class="col-lg-6">
             <div class="about-image position-relative" data-aos="fade-left" data-aos-delay="200">
-              <img src="assets/img/construction/project-3.webp" alt="Construction Team" class="img-fluid main-image rounded">
-              <div class="image-overlay">
-                <img src="assets/img/construction/project-7.webp" alt="Construction Project" class="img-fluid rounded">
-              </div>
-              <div class="experience-badge" data-aos="zoom-in" data-aos-delay="500">
-                <span>25+</span>
-                <p>Years of Experience</p>
-              </div>
+              <img src="assets/img/products/img1.jpg" alt="Product Image" class="img-fluid main-image rounded">
             </div>
           </div>
         </div>
-
       </div>
-
-    </section><!-- /About Section -->
-
-    <!-- Services Section -->
+    </section>
     <section id="services" class="services section">
 
       <!-- Section Title -->
