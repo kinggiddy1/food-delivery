@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - Original Food Delivery</title>
+  <title>Home - Original Food Delivery</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
   <link href="assets/img/favicon.png" rel="icon">
@@ -28,8 +28,6 @@
   ?>
 
   <main class="main">
-
-    <!-- Hero Section -->
     <section id="hero" class="hero section">
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -37,47 +35,25 @@
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="hero-content" data-aos="fade-right" data-aos-delay="200">
-              <span class="subtitle">Excellence in Construction</span>
-              <h1>Building Tomorrow's Landmarks Today</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et purus a odio finibus bibendum in sit amet leo. Mauris feugiat at orci maximus feugiat.</p>
+              <span class=""></span>
+              <h1>Delivering Pure Original Honey Worldwide</h1>
+              <p>Original Food Delivery is dedicated to delivering 100% pure, natural honey to customers around the world. We work closely with trusted local producers to ensure every product meets the highest standards of quality, freshness, and authenticity.</p>
 
               <div class="hero-buttons">
                 <a href="#" class="btn-primary">Request a Quote</a>
                 <a href="#" class="btn-secondary">Our Projects</a>
               </div>
 
-              <div class="trust-badges">
-                <div class="badge-item">
-                  <i class="bi bi-building-check"></i>
-                  <div class="badge-text">
-                    <span class="count">25+</span>
-                    <span class="label">Years Experience</span>
-                  </div>
-                </div>
-                <div class="badge-item">
-                  <i class="bi bi-trophy"></i>
-                  <div class="badge-text">
-                    <span class="count">500+</span>
-                    <span class="label">Projects Completed</span>
-                  </div>
-                </div>
-                <div class="badge-item">
-                  <i class="bi bi-people"></i>
-                  <div class="badge-text">
-                    <span class="count">300+</span>
-                    <span class="label">Satisfied Clients</span>
-                  </div>
-                </div>
-              </div>
+              
             </div>
           </div>
 
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="300">
             <div class="hero-image">
-              <img src="assets/img/construction/showcase-3.webp" alt="Construction Project" class="img-fluid">
+              <img src="assets/img/products/img1.jpg" alt="product image" class="img-fluid">
               <div class="image-badge">
-                <span>ISO 9001:2015</span>
-                <p>Certified Construction</p>
+                <span>ISO 22000:2018</span>
+                <p>We are ISO 22000:2018 Certified company</p>
               </div>
             </div>
           </div>
