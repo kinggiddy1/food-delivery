@@ -73,9 +73,7 @@
           <p>Natural honey comb, ideal for enjoying raw honey with its pure texture and flavor.</p>
         </div>
       </div>
-
     </div>
-
   </div>
 </section>
    
