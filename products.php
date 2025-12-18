@@ -7,7 +7,7 @@ require_once('perlConfig.php');
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Contact - Original Food Delivery</title>
+  <title>Products - Original Food Delivery</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
