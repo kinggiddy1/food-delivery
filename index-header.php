@@ -16,23 +16,23 @@
 
     <div class="branding d-flex align-items-center">
       <div class="container position-relative d-flex align-items-center justify-content-between">
-        <a href="home" class="logo d-flex align-items-center">
-          <img src="assets/img/logo/logo.jpg" alt="Original Food Delivery Logo">
-          <h1 class="sitename" style="color: #2178bd;">ORIGINAL FOOD DELIVERY</h1>
+        <a href="home" class="d-flex align-items-center">
+          <img src="assets/img/logo/logo.jpg" height="80" alt="Original Food Delivery Logo">
+          <h3 class="sitename" style="color: #2178bd;">ORIGINAL FOOD DELIVERY</h3>
         </a>
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a href="<?php echo URLROOT;?>" class="active">Home</a></li>
-            <li><a href="<?php echo URLROOT;?>about">About</a></li>
-            <li><a href="<?php echo URLROOT;?>team">Team</a></li>
-            <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <li><a class="fw-bold text-muted" href="<?php echo URLROOT;?>" class="active">Home</a></li>
+            <li><a class="fw-bold text-muted" href="<?php echo URLROOT;?>about">About</a></li>
+            <!-- <li><a class="fw-bold text-muted" href="<?php echo URLROOT;?>team">Team</a></li> -->
+            <li class="dropdown"><a class="fw-bold text-muted" href="#"><span>Products</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
-                <li><a href="<?php echo URLROOT;?>products">Honey</a></li>
+                <li><a class="fw-bold text-muted" href="<?php echo URLROOT;?>products">Honey</a></li>
               </ul>
             </li>
-            <li><a href="<?php echo URLROOT;?>blog">Blog</a></li>
-            <li><a href="<?php echo URLROOT;?>contact">Contact</a></li>
+            <!-- <li><a class="fw-bold text-muted" href="<?php echo URLROOT;?>blog">Blog</a></li> -->
+            <li><a class="fw-bold text-muted" href="<?php echo URLROOT;?>contact">Contact</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
