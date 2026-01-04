@@ -23,7 +23,7 @@
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a class="fw-bold text-muted" href="<?php echo URLROOT;?>" class="active">Home</a></li>
+            <li><a class="fw-bold active" href="<?php echo URLROOT;?>">Home</a></li>
             <li><a class="fw-bold text-muted" href="<?php echo URLROOT;?>about">About</a></li>
             <!-- <li><a class="fw-bold text-muted" href="<?php echo URLROOT;?>team">Team</a></li> -->
             <li class="dropdown"><a class="fw-bold text-muted" href="#"><span>Products</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
